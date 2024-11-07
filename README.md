@@ -70,5 +70,5 @@ The system includes the following features:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries or feedback, please contact:
+For any enquiries or feedback, please contact:
 - **Email**: sin.kashish01@gmail.com
